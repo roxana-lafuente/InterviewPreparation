@@ -4,6 +4,8 @@ A useful resource to prepare for Software Engineering interviews.
 
 ## What can I find in this repository?
 
+![Tree](Tree.png)
+
 - Algorithm implementations.
 - Solved problems common in interview settings. 
 - Data structures.
